@@ -1,0 +1,61 @@
+.foto-perfil {
+
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.firtCollor {
+    background-color: #18bc9c;
+
+}
+
+.secondCollor {
+    background-color: #2c3e50;
+}
+
+p {
+    font-family: font-family: 'Lato', sans-serif;
+    color: black !important;
+}
+
+.icon {
+    padding-left: 5px;
+}
+
+.whiteTitles {
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+}
+
+.greenTitles {
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #18bc9c;
+}
+
+.whiteText {
+    color: white !important;
+}
+
+.jumbotrom {
+    margin-bottom: 0px;
+}
+
+.footerText {
+    margin: 0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
